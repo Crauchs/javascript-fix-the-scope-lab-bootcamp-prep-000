@@ -19,7 +19,7 @@ const two = 2;
 
 }
 
-var funkyFunction = function() 
+var funkyFunction = function()
   {
     return "FUNKY!"
   }
